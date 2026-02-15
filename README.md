@@ -98,3 +98,9 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 
 ⭐ If you like my work, consider starring a repository!  
 🤝 Always open to collaboration and learning.
+
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/HederGabriel/HederGabriel/output/snake.svg" alt="Snake animation" />
+
+</div>
