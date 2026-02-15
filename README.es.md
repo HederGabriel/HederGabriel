@@ -101,3 +101,9 @@ Busco **oportunidades** para obtener **experiencia profesional**, contribuir a *
 
 ⭐ Si te gusta mi trabajo, considera marcar un repositorio con estrella.  
 🤝 Siempre abierto a colaborar y aprender.
+
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/HederGabriel/HederGabriel/output/snake.svg" alt="Snake animation" />
+
+</div>
