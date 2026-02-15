@@ -1,14 +1,14 @@
-# 🌎 Language
+# 🌎 Idioma
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🇺🇸%20English-2ea44f?style=for-the-badge">
+      <a href="README.md">
+        <img src="https://img.shields.io/badge/🇺🇸%20English-555?style=for-the-badge&logo=googletranslate&logoColor=white">
+      </a>
     </td>
     <td align="center">
-      <a href="README.pt-BR.md">
-        <img src="https://img.shields.io/badge/🇧🇷%20Português-555?style=for-the-badge&logo=googletranslate&logoColor=white">
-      </a>
+      <img src="https://img.shields.io/badge/🇧🇷%20Português-2ea44f?style=for-the-badge">
     </td>
     <td align="center">
       <a href="README.es.md">
@@ -20,14 +20,14 @@
 
 ---
 
-# Hi 👋, I'm Heder Gabriel
+# Olá 👋, eu sou Heder Gabriel
 
-🚀 **Developer in Training | Information Systems Student**  
-🇧🇷 Brazil
+🚀 **Desenvolvedor em Formação | Estudante de Sistemas de Informação**  
+🇧🇷 Brasil
 
-I am a **Computer Technician** and an **Internet Systems Technology student** interested in **software development** and **technology**. I build projects to practice **programming**, especially **web applications**, while continuously improving my skills through **study** and **hands-on experience**.
+Sou **Técnico em Informática** e estudante de **Tecnologia em Sistemas para Internet**, interessado em **desenvolvimento de software** e **tecnologia**. Desenvolvo projetos para praticar **programação**, especialmente **aplicações web**, enquanto aprimoro minhas habilidades por meio de **estudos** e **experiência prática**.
 
-I am seeking **opportunities** to gain **professional experience**, contribute to **real projects**, and continue growing in the **technology** field.
+Busco **oportunidades** para adquirir **experiência profissional**, contribuir com **projetos reais** e continuar evoluindo na área de **tecnologia**.
 
 ## 🌐 Where to find me
 
@@ -49,15 +49,18 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
   </a>
 </p>
 
-## 🧠 What I do
 
-- 💻 Web development projects
-- 🧩 Backend logic and databases
-- 🌐 Frontend interfaces
-- ⚙️ Learning new technologies
-- 🧪 Practice through projects
-- 📚 Studying programming concepts
-- 🚀 Continuous improvement
+
+## 🧠 O que eu faço
+
+- 💻 Projetos de desenvolvimento web
+- 🧩 Lógica backend e bancos de dados
+- 🌐 Interfaces frontend
+- ⚙️ Aprendizado de novas tecnologias
+- 🧪 Prática com projetos pessoais e acadêmicos
+- 📚 Estudo de conceitos de programação
+- 🚀 Melhoria contínua
+
 
 ## 🛠️ Tech Stack
 
@@ -76,6 +79,7 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,11 +94,11 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HederGabriel&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"The next level can always be learned."_
+> _"O próximo nível sempre pode ser aprendido."_
 
 ---
 
-⭐ If you like my work, consider starring a repository!  
-🤝 Always open to collaboration and learning.
+⭐ Se gostou do meu trabalho, considere favoritar um repositório!  
+🤝 Sempre aberto a aprender e colaborar.
