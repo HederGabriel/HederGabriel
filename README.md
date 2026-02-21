@@ -29,6 +29,13 @@ I am a **Computer Technician** and an **Internet Systems Technology student** in
 
 I am seeking **opportunities** to gain **professional experience**, contribute to **real projects**, and continue growing in the **technology** field.
 
+## My Portfolio
+<p align="center">
+  <a href="https://hedergabriel.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Acessar-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 ## 🌐 Where to find me
 
 <p align="left">
