@@ -29,7 +29,12 @@ Soy **Técnico en Informática** y estudiante de **Tecnología en Sistemas para 
 
 Busco **oportunidades** para obtener **experiencia profesional**, contribuir a **proyectos reales** y seguir creciendo en el área de **tecnología**.
 
-
+## Mi Portafolio
+<p align="center">
+  <a href="https://hedergabriel.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Mi%20Portafolio-Acessar-0A66C2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ## 🌐 Where to find me
 
