@@ -66,7 +66,7 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 - 📚 Studying programming concepts
 - 🚀 Continuous improvement
 
-## 🛠️ Tech Stack
+## 🛠️ Stacks
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,6 +75,7 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7B1FA2?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
