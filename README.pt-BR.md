@@ -36,7 +36,7 @@ Busco **oportunidades** para adquirir **experiência profissional**, contribuir 
   </a>
 </p>
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/HederGabriel">
