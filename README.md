@@ -1,4 +1,4 @@
-s# 🌎 Language
+🌎 Language
 
 <table align="center">
   <tr>
