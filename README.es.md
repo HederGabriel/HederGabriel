@@ -51,8 +51,8 @@ Busco **oportunidades** para obtener **experiencia profesional**, contribuir a *
     <img src="https://img.shields.io/badge/linkedin-Heder Gabriel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:hedergabrielsalessousa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hedergabrielsalessousa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hedergabrielsalessousa@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-hedergabrielsalessousa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
