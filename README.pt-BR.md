@@ -29,6 +29,14 @@ Sou **Técnico em Informática** e estudante de **Tecnologia em Sistemas para In
 
 Busco **oportunidades** para adquirir **experiência profissional**, contribuir com **projetos reais** e continuar evoluindo na área de **tecnologia**.
 
+## 🔭 O que estou fazendo agora
+
+**📚 Estudando Algoritmos com o livro "Entendendo Algoritmos" (Grokking Algorithms), de Aditya Y. Bhargava**
+
+> Passando por conceitos como busca binária, recursão, ordenação e estruturas de dados, sempre implementando cada algoritmo com as próprias mãos e interpretando o funcionamento. Atualmente no capítulo de **Recursão** 🟨.
+>
+> Todo o progresso — código, exercícios e anotações — está sendo registrado capítulo a capítulo no repositório [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos).
+
 ## Meu Portfólio
 <p align="center">
   <a href="https://hedergabriel.github.io" target="_blank">

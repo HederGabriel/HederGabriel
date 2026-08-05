@@ -29,6 +29,14 @@ I am a **Computer Technician** and an **Internet Systems Technology student** in
 
 I am seeking **opportunities** to gain **professional experience**, contribute to **real projects**, and continue growing in the **technology** field.
 
+## 🔭 What I'm doing right now
+
+**📚 Studying Algorithms with "Grokking Algorithms" by Aditya Y. Bhargava**
+
+> Going through concepts like binary search, recursion, sorting, and data structures, always implementing each algorithm by hand and making sure I understand how it actually works. Currently on the **Recursion** chapter 🟨.
+>
+> All my progress — code, exercises, and notes — is being tracked chapter by chapter in the [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos) repository.
+
 ## My Portfolio
 <p align="center">
   <a href="https://hedergabriel.github.io" target="_blank">
