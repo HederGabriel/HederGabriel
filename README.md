@@ -88,15 +88,15 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HederGabriel&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HederGabriel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HederGabriel&theme=tokyonight" />
+  <img src="https://streak-stats.vercel.app?user=HederGabriel&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HederGabriel&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HederGabriel&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Philosophy
