@@ -33,7 +33,7 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 
 **📚 Studying Algorithms with "Grokking Algorithms" by Aditya Y. Bhargava**
 
-> Going through concepts like binary search, recursion, sorting, and data structures, always implementing each algorithm by hand and making sure I understand how it actually works. Currently on the **Recursion** chapter 🟨.
+> Going through concepts like binary search, recursion, sorting, and data structures, always implementing each algorithm by hand and making sure I understand how it actually works. Currently on the **Quicksort** chapter 🟨.
 >
 > All my progress — code, exercises, and notes — is being tracked chapter by chapter in the [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos) repository.
 

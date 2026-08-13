@@ -33,7 +33,7 @@ Busco **oportunidades** para adquirir **experiência profissional**, contribuir 
 
 **📚 Estudando Algoritmos com o livro "Entendendo Algoritmos" (Grokking Algorithms), de Aditya Y. Bhargava**
 
-> Passando por conceitos como busca binária, recursão, ordenação e estruturas de dados, sempre implementando cada algoritmo com as próprias mãos e interpretando o funcionamento. Atualmente no capítulo de **Recursão** 🟨.
+> Passando por conceitos como busca binária, recursão, ordenação e estruturas de dados, sempre implementando cada algoritmo com as próprias mãos e interpretando o funcionamento. Atualmente no capítulo de **Quicksort** 🟨.
 >
 > Todo o progresso — código, exercícios e anotações — está sendo registrado capítulo a capítulo no repositório [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos).
 
