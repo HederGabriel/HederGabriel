@@ -31,7 +31,7 @@ I am seeking **opportunities** to gain **professional experience**, contribute t
 
 ## 🔭 What I'm Doing Now
 
-**📚 Studying for the 2026 Goiás State Court of Accounts (TCE-GO) public-service exam**  
+**[📚 Studying for the 2026 Goiás State Court of Accounts (TCE-GO) public-service exam](https://github.com/HederGabriel/Concurso-TCE-GO-2026-Tecnico-de-Controle-Externo)**  
 **Position:** External Control Technician — Information Technology (B02)
 
 > **📖 Study Block:** `Study Block Name`

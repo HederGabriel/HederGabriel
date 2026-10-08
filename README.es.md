@@ -31,7 +31,7 @@ Busco **oportunidades** para obtener **experiencia profesional**, contribuir a *
 
 ## 🔭 Lo que estoy haciendo ahora
 
-**📚 Estudiando para el concurso público del Tribunal de Cuentas del Estado de Goiás (TCE-GO) 2026**  
+**[📚 Estudiando para el concurso público del Tribunal de Cuentas del Estado de Goiás (TCE-GO) 2026](https://github.com/HederGabriel/Concurso-TCE-GO-2026-Tecnico-de-Controle-Externo)**  
 **Cargo:** Técnico de Control Externo — Especialidad: Tecnología de la Información (B02)
 
 > **📖 Bloque de Estudio:** `Nombre del Bloque de Estudio`
