@@ -29,13 +29,18 @@ I am a **Computer Technician** and an **Internet Systems Technology student** in
 
 I am seeking **opportunities** to gain **professional experience**, contribute to **real projects**, and continue growing in the **technology** field.
 
-## 🔭 What I'm doing right now
+## 🔭 What I'm Doing Now
 
-**📚 Studying Algorithms with "Grokking Algorithms" by Aditya Y. Bhargava**
+**📚 Studying for the 2026 Goiás State Court of Accounts (TCE-GO) public-service exam**  
+**Position:** External Control Technician — Information Technology (B02)
 
-> Going through concepts like binary search, recursion, sorting, and data structures, always implementing each algorithm by hand and making sure I understand how it actually works. Currently on the **Quicksort** chapter 🟨.
+> **📖 Study Block:** `Study Block Name`
 >
-> All my progress — code, exercises, and notes — is being tracked chapter by chapter in the [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos) repository.
+> **🎯 Current Topic:** `Current Topic Name`
+>
+> I am organizing my preparation based on the exam syllabus, studying each content block and its respective topics progressively.
+>
+> All study materials, notes, and exam-related information are being organized in a dedicated repository for my TCE-GO 2026 preparation.
 
 ## My Portfolio
 <p align="center">

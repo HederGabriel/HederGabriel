@@ -31,11 +31,16 @@ Busco **oportunidades** para adquirir **experiência profissional**, contribuir 
 
 ## 🔭 O que estou fazendo agora
 
-**📚 Estudando Algoritmos com o livro "Entendendo Algoritmos" (Grokking Algorithms), de Aditya Y. Bhargava**
+**📚 Estudando para o concurso do Tribunal de Contas do Estado de Goiás (TCE-GO) 2026**  
+**Cargo:** Técnico de Controle Externo — Especialidade: Tecnologia da Informação (B02)
 
-> Passando por conceitos como busca binária, recursão, ordenação e estruturas de dados, sempre implementando cada algoritmo com as próprias mãos e interpretando o funcionamento. Atualmente no capítulo de **Quicksort** 🟨.
+> **📖 Bloco de Estudo:** `Nome do Bloco de Estudo`
 >
-> Todo o progresso — código, exercícios e anotações — está sendo registrado capítulo a capítulo no repositório [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos).
+> **🎯 Assunto Atual:** `Nome do Assunto`
+>
+> Estou organizando minha preparação a partir do conteúdo programático do concurso, estudando os diferentes blocos de conteúdo e seus respectivos assuntos de forma progressiva.
+>
+> Todo o material de estudo, anotações e informações sobre a prova estão sendo organizados em um repositório dedicado à preparação para o TCE-GO 2026.
 
 ## Meu Portfólio
 <p align="center">

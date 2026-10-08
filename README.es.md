@@ -29,13 +29,18 @@ Soy **Técnico en Informática** y estudiante de **Tecnología en Sistemas para 
 
 Busco **oportunidades** para obtener **experiencia profesional**, contribuir a **proyectos reales** y seguir creciendo en el área de **tecnología**.
 
-## 🔭 Qué estoy haciendo ahora
+## 🔭 Lo que estoy haciendo ahora
 
-**📚 Estudiando Algoritmos con el libro "Grokking Algorithms", de Aditya Y. Bhargava**
+**📚 Estudiando para el concurso público del Tribunal de Cuentas del Estado de Goiás (TCE-GO) 2026**  
+**Cargo:** Técnico de Control Externo — Especialidad: Tecnología de la Información (B02)
 
-> Repasando conceptos como búsqueda binaria, recursión, ordenamiento y estructuras de datos, implementando cada algoritmo con mis propias manos y entendiendo cómo funciona realmente. Actualmente en el capítulo de **Quicksort** 🟨.
+> **📖 Bloque de Estudio:** `Nombre del Bloque de Estudio`
 >
-> Todo el progreso — código, ejercicios y anotaciones — se está registrando capítulo a capítulo en el repositorio [**Aprendendo-Algoritmos**](https://github.com/HederGabriel/Aprendendo-Algoritmos).
+> **🎯 Tema Actual:** `Nombre del Tema`
+>
+> Estoy organizando mi preparación a partir del contenido programático del concurso, estudiando progresivamente cada bloque de contenido y sus respectivos temas.
+>
+> Todo el material de estudio, las anotaciones y la información sobre el examen están siendo organizados en un repositorio dedicado a mi preparación para el TCE-GO 2026.
 
 ## Mi Portafolio
 <p align="center">
